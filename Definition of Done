@@ -1,1 +1,15 @@
+Builds without errors (exemptions: stories for documentation,documentation and activities by QA,BA and PA)
+Peer reviewed (or produced with pair programming) and meeting development standards
+Unit tests written and passing
+Any build and deployment documented and communicated
+All needed SNOW ticket are submitted 
+Passed UAT (User Acceptance Testing) 
+Remaining hours for task set to zero and task closed
+QA performed & issues resolved
+Feature is tested against acceptance criteria
+Feature ok-ed by Product Owner
+Refactoring completed
+Any configuration or build changes documented (microservice)
+Code commented in Salesforce
+
 
